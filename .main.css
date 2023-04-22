@@ -1,0 +1,8 @@
+.main {
+    font-weight: 1000px;
+    height: auto;
+}
+
+.cell {
+     height:(100%/3)
+}
